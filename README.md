@@ -5,7 +5,8 @@
 ## Education
 EDUCATION
 Flatiron School, New York, NY
-Studying Equivalent to Bachelor's Degree in Data Science
+Studying Equivalent to 
+Bachelor's Degree in Data Science
 May 2023 – Present
 Google UX Design Certificate
 
