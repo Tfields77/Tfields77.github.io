@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Science Proffesional
 
 #### Technical Skills: Python, SQL, NumPy, SciPy, Pandas, Matplotlib, Seaborn,Figma, 
 
