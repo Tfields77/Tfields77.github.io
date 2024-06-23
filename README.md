@@ -11,7 +11,7 @@ May 2023 – Present
 Google UX Design Certificate
 
 ## Work Experience
-## Flatiron School, New York, NY
+Flatiron School, New York, NY
 Data Science Student
 May 2023 – Present
 
@@ -19,7 +19,7 @@ Engaged in intensive data science bootcamp covering statistics, data analysis, a
 Collaborated on various projects involving data cleaning, exploratory data analysis, and predictive modeling.
 
 
-##The Citizen Project, NY
+The Citizen Project, NY
 UX Designer
 July 2022 – August 2023 (Part-time)
 Aided NYC residents interact with government and community leaders to help solve complex problems by designing a robust platform.
