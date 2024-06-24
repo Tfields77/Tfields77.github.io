@@ -14,7 +14,6 @@ Google UX Design Certificate
 Flatiron School, New York, NY
 Data Science Student
 May 2023 – Present
-
 Engaged in intensive data science bootcamp covering statistics, data analysis, and visualization.
 Collaborated on various projects involving data cleaning, exploratory data analysis, and predictive modeling.
 
