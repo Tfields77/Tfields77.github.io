@@ -8,17 +8,12 @@ url: "https://tfields77.github.io" # the base hostname & protocol for your site
 author:
   name: Torrin Fields
   email: Torrin.a.fields@gmail.com
-  social:
-    github: tfields77
-    linkedin: https://www.linkedin.com/in/torrin-fields-336a42255/
-    twitter: your-twitter-handle
+
 
 # Build settings
 markdown: kramdown
 theme: minima # Choose a theme that suits your design, 'minima' is a simple one
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+
 
 
 
