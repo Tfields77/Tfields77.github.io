@@ -7,7 +7,7 @@ url: "https://tfields77.github.io" # the base hostname & protocol for your site
 # Author settings
 author:
   name: Torrin Fields
-  email: Torrin.a.fieldsl@example.com
+  email: Torrin.a.fields@gmail.com
   social:
     github: tfields77
     linkedin: https://www.linkedin.com/in/torrin-fields-336a42255/
@@ -20,25 +20,5 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-
-
-# Excludes
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle
-  - vendor/cache
-  - vendor/gems
-  - vendor/ruby
-
-# Optional settings
-paginate: 5
-paginate_path: "/page:num/"
-
-
-
-# Google Analytics
-google_analytics: UA-XXXXXXXX-X
 
 
