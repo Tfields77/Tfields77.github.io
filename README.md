@@ -1,6 +1,6 @@
 # Data Science Professional
 
-#### Technical Skills: Python, SQL, NumPy, SciPy, Pandas, Matplotlib, Seaborn,Figma, 
+#### Technical Skills: Python, SQL, NumPy, SciPy, Pandas, Matplotlib, Seaborn,Figma, Machine Learning
 
 ## Education
 EDUCATION
