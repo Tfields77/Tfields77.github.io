@@ -1,4 +1,4 @@
-# Data Science Professional
+
 
 #### Technical Skills: Python, SQL, NumPy, SciPy, Pandas, Matplotlib, Seaborn,Figma, Machine Learning
 
@@ -42,4 +42,5 @@ In my first EDA, I analyzed Netflix, Hulu, Disney+, and Prime Video from 2009 to
 ### Data-Driven EDA Unveiling The Titanic
 ![](/assets/img/tita.jpeg)
 [View EDA](https://github.com/Tfields77/Unveiling-The-Titanic/blob/main/Unveiling%20The%20Titanic.ipynb)
+
 Conducted a 24-hour EDA on the Titanic dataset, addressing missing values and uncovering key insights into passenger demographics and survival rates. Used chi-square tests and visualizations to reveal significant relationships between passenger class, cabin information, and survival outcomes, and performed hypothesis testing to analyze age-related survival differences.
