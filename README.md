@@ -13,7 +13,7 @@ May 2023 – Present
 ## Work Experience
 Flatiron School, New York, NY
 Data Science Student
-May 2023 – Present
+1/2023 – 5/2023
 Engaged in intensive data science bootcamp covering statistics, data analysis, and visualization.
 Collaborated on various projects involving data cleaning, exploratory data analysis, and predictive modeling.
 
@@ -24,7 +24,9 @@ July 2022 – August 2023 (Part-time)
 Aided NYC residents interact with government and community leaders to help solve complex problems by designing a robust platform.
 Translated user requirements into ideas for storyboards to produce attractive user interfaces.
 
-
+The Messenger, NY
+Data Analyst
+At The Messenger, NY, I enhanced data processing efficiency by 20% through data collection, analysis, and interpretation. Using Python and Tableau, I improved report accuracy by 15% and trend identification speed by 25%. Cross-department collaboration reduced project delivery time by 30%.
 
 ## Projects
 ### Data-Driven EDA The Cinema Chronicles
