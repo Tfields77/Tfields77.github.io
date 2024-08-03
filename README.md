@@ -33,7 +33,7 @@ At The Messenger, NY, I enhanced data processing efficiency by 20% through data 
 ![](assets/img/Cocktails.jpg)
 [View EDA](https://github.com/Tfields77/The-Cocktail-experiment/blob/main/Untitled13%20(2).ipynb)
 
-During my exploratory data analysis (EDA), I identified key patterns and insights from the cocktail dataset. Using heatmaps and word clouds, I visualized the most common flavor profiles and ingredient combinations, which revealed significant preferences for certain flavors like citrus and sweet. Also created and deployed
+During my exploratory data analysis (EDA), I identified key patterns and insights from the cocktail dataset. Using heatmaps and word clouds, I visualized the most common flavor profiles and ingredient combinations, which revealed significant preferences for certain flavors like citrus and sweet. Also created and deployed recommendation system.
 
 https://cocktail-experiment.streamlit.app/
 
