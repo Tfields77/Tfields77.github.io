@@ -1,13 +1,12 @@
 
 
-#### Technical Skills: Python, SQL, NumPy, SciPy, Pandas, Matplotlib, Seaborn,Figma, Machine Learning
+#### Technical Skills: Python, SQL, NumPy, SciPy, Pandas, Matplotlib, Seaborn,Figma, Machine Learning,NLP
 
 ## Education
 EDUCATION
 Flatiron School, New York, NY
-Studying Equivalent to 
-Bachelor's Degree in Data Science
-May 2023 – Present
+Bachelor's Degree in Data Science (Equivalent)
+01 2023 – 05/2023
 
 
 ## Work Experience
@@ -29,6 +28,22 @@ Data Analyst
 At The Messenger, NY, I enhanced data processing efficiency by 20% through data collection, analysis, and interpretation. Using Python and Tableau, I improved report accuracy by 15% and trend identification speed by 25%. Cross-department collaboration reduced project delivery time by 30%.
 
 ## Projects
+
+### Data-Driven EDA Pump Pulse
+![](assets/img/Pump Pulse.jpeg)
+[View EDA](https://github.com/Tfields77/The-Cocktail-experiment/blob/main/Untitled13%20(2).ipynb)
+
+During my exploratory data analysis (EDA), I identified key patterns and insights from the cocktail dataset. Using heatmaps and word clouds, I visualized the most common flavor profiles and ingredient combinations, which revealed significant preferences for certain flavors like citrus and sweet. Also created and deployed
+
+https://cocktail-experiment.streamlit.app/
+
+### Data-Driven EDA Pump Pulse
+![](assets/img/Pump Pulse.jpeg)
+[View EDA](https://github.com/Tfields77/Pump-Pulse/blob/main/Untitled7.ipynb)
+
+In this project, I performed an exploratory data analysis on Tanzanian water pump data to predict their functionality. The analysis revealed that gravity-based systems and communal standpipes are the most common water extraction and waterpoint types, respectively, with the Village Water Committee being the primary management entity.
+
+
 ### Data-Driven EDA The Cinema Chronicles
 ![](assets/img/cookie.jpeg)
 [View EDA](https://github.com/Tfields77/Cinema-Chronicles/blob/main/Ciinema%20Chronicles.ipynb)
