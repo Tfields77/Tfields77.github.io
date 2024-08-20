@@ -30,7 +30,7 @@ At The Messenger, NY, I enhanced data processing efficiency by 20% through data 
 ## Projects
 
 
-### Data-Driven EDA The Cocktail-Experiment
+### Data-Driven EDA Lets's Face It
 ![](assets/img/face.jpg)
 [View EDA]((https://github.com/Tfields77/Let-s-Face-It/blob/main/Untitled2_(1)%20(1).ipynb))
 
