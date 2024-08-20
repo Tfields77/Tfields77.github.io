@@ -38,7 +38,7 @@ During my exploratory data analysis (EDA), I identified key patterns and insight
 https://cocktail-experiment.streamlit.app/
 
 ### Data-Driven EDA Pump Pulse
-![](assets/img/Pump Pulse.jpg)
+![](assets/img/PumpPulse.jpg)
 [View EDA](https://github.com/Tfields77/Pump-Pulse/blob/main/Untitled7.ipynb)
 
 In this project, I performed an exploratory data analysis on Tanzanian water pump data to predict their functionality. The analysis revealed that gravity-based systems and communal standpipes are the most common water extraction and waterpoint types, respectively, with the Village Water Committee being the primary management entity.
