@@ -32,7 +32,7 @@ At The Messenger, NY, I enhanced data processing efficiency by 20% through data 
 
 ### Data-Driven EDA Lets's Face It
 ![](assets/img/face.jpg)
-[View EDA]([(https://github.com/Tfields77/Let-s-Face-It/blob/main/Untitled2_(1)%20(1).ipynb))
+[View EDA](https://github.com/Tfields77/Let-s-Face-It/blob/main/Untitled2_(1)%20(1).ipynb)
 
 During my exploratory data analysis (EDA) on emotion recognition using a YOLOv5 model, I uncovered valuable insights that demonstrate the model's effectiveness in identifying distinct emotions. The model showed strong performance in recognizing emotions such as Surprise, Happy, and Anger, with high accuracy in these categories. While Sad, Contempt, and Disgust presented challenges, their visual similarities often contribute to misclassifications. 
 
